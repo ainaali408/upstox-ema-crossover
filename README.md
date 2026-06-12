@@ -35,7 +35,7 @@ npm install
 
 Create a .env file:
 
-UPSTOX_ACCESS_TOKEN=your_token_here
+UPSTOX_ACCESS_TOKEN=token_here
 
 ## Run
 
